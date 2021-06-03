@@ -61,7 +61,7 @@ font = ImageFont.truetype("DejaVuSans.ttf", 16)
 
 # Draw text.
 
-draw.text((0, 32), "Hi, Matt Bingham!", font=font, fill=255)
+draw.text((0, 32), "Hi, MBTech!", font=font, fill=255)
 
 
 font = ImageFont.truetype("DejaVuSans.ttf", 22)
