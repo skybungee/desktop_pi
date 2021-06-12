@@ -6,4 +6,6 @@ Here are some example images:
 
 Display image in GitHub readme.
 
-![Image](location of image in repo.type)
+![Image](https://github.com/skybungee/raspi_oled_display/blob/main/images/IMG_20210612_112500407.jpg)
+
+Enjoy!!!!
