@@ -4,8 +4,6 @@ The Display will show the IP address of the PI and Temperature of the CPU also
 
 Here are some example images:
 
-Display image in GitHub readme.
-
 ![Image](https://github.com/skybungee/raspi_oled_display/blob/main/images/IMG_20210612_112500407.jpg)
 
 Enjoy!!!!
